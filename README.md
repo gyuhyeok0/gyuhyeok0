@@ -2,7 +2,8 @@
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 
-# https://gyuhyeok0.github.io/자바%20이론/first/
+# 블로그 바로가기!!
+## https://gyuhyeok0.github.io
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
