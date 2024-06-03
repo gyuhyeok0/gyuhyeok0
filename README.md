@@ -12,3 +12,5 @@
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GyuHyeok0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=06A66C" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyuHyeok0&layout=compact&theme=buefy&hide_border=true&title_color=06A66C" /></a> |
 | ------------- | ------------- |
+
+![나무 아래](https://github.com/gyuhyeok0/gyuhyeok0/assets/153148788/47bd932e-4a9e-4a2f-8e4a-480479d675bd)
