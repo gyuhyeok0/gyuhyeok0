@@ -1,13 +1,14 @@
 ## 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝙶𝚢𝚞 𝙷𝚢𝚎𝚘𝚔
+<br>
 
 **About me**
 
 - 한국인입니다. 
-
 - 방가방가
-
 - 치즈
 <br>
+<br>
+
 
 **Top Repositories**
 <img align="left" src="https://github.com/gyuhyeok0/gyuhyeok0/assets/153148788/9b1ff151-9d35-4161-a336-b8e45f611964" alt="나무" style="width: 280px; height: auto; ">
