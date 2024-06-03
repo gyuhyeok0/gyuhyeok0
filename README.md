@@ -35,5 +35,5 @@
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
-<a href="564564m@naver.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=564564m@naver.com"/></a>
-
+**E-mail** 
+- 564564m@naver.com
