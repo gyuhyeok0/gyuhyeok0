@@ -1,3 +1,6 @@
+
+  ![나무 위](https://github.com/gyuhyeok0/gyuhyeok0/assets/153148788/9b1ff151-9d35-4161-a336-b8e45f611964)
+
 ### 🌱 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 & 𝙼𝚢 𝚜𝚝𝚊𝚝𝚜
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
