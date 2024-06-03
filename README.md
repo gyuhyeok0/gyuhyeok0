@@ -1,12 +1,22 @@
-## "Hello, I'm Gyu Hyeok I do open source!"
+## 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝙶𝚢𝚞 𝙷𝚢𝚎𝚘𝚔
+
+**About me**
+
+- 한국인입니다. 
+
+- 방가방가
+
+- 치즈
+<br>
 
 <img align="left" src="https://github.com/gyuhyeok0/gyuhyeok0/assets/153148788/9b1ff151-9d35-4161-a336-b8e45f611964" alt="나무" style="width: 280px; height: auto; ">
 
-```javascript
-const thai = {
-  
-}
-```
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 
 
 ### 🌱 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 & 𝙼𝚢 𝚜𝚝𝚊𝚝𝚜
@@ -22,3 +32,8 @@ const thai = {
 | ------------- | ------------- |
 
 <img src="https://github.com/gyuhyeok0/gyuhyeok0/assets/153148788/47bd932e-4a9e-4a2f-8e4a-480479d675bd" alt="나무" style="width: 280px; height: auto; ">
+
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+
+<a href="564564m@naver.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=564564m@naver.com"/></a>
+
