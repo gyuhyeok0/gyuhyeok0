@@ -1,6 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Gyu Hyeok I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
+## "Hello, I'm Gyu Hyeok I do open source!"
 
 <img align="left" src="https://github.com/gyuhyeok0/gyuhyeok0/assets/153148788/9b1ff151-9d35-4161-a336-b8e45f611964" alt="나무" style="width: 280px; height: auto; ">
 
