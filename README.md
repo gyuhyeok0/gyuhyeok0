@@ -4,9 +4,9 @@
 
 ```javascript
 const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  pronouns: "he" | "him",
+  code: [Java, Javascript, HTML, CSS],
+  tools: [React],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "AfroPython",
