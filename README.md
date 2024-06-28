@@ -14,7 +14,7 @@
 <img align="left" src="https://github.com/gyuhyeok0/gyuhyeok0/assets/153148788/9b1ff151-9d35-4161-a336-b8e45f611964" alt="나무" style="width: 280px; height: auto; ">
 
 <a href="https://github.com/gyuhyeok0/react_project">
-  <img align="center" src="https://https://github-readme-stats.vercel.app/api/pin/?username=gyuhyeok&repo=react_project&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gyuhyeok&repo=react_project&theme=buefy" />
 </a>
 <a href="https://github.com/alskdteam/Organic_groupware">
   <img align="center" src="https://https://github-readme-stats.vercel.app/api/pin/?username=alskdteam&repo=Organic_groupware&theme=buefy" />
