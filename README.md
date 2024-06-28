@@ -17,7 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alskdteam&repo=Organic_groupware&theme=buefy" />
 </a>
 <a href="https://github.com/alskdteam/Organic_groupware">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gyuhyeok0&repo=spring-mybatis-crud&theme=buefy" />
+  <img align="center" src="https://https://github-readme-stats.vercel.app/api/pin/?username=alskdteam&repo=Organic_groupware&theme=buefy" />
 </a>
 
 <br>
