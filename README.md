@@ -12,8 +12,6 @@
 **Top Repositories**
  <img align="left" src="https://github.com/gyuhyeok0/gyuhyeok0/assets/153148788/9b1ff151-9d35-4161-a336-b8e45f611964" alt="나무" style="width: 280px; height: auto; ">
 
-
-**Top Repositories**
 <a href="https://github.com/gyuhyeok0/react_project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alskdteam&repo=Organic_groupware&theme=buefy" />
 </a>
