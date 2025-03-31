@@ -29,14 +29,7 @@
 ![](https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=Gradle&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SpringBoot-informational?style=flat&logo=SpringBoot&logoColor=white&color=2bbc8a)
 
-
-| <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GyuHyeok0&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&title_color=06A66C" alt="GyuHyeok0's github stats" />
-</a> 
-| 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyuHyeok0&layout=compact&theme=buefy&hide_border=true&title_color=06A66C" />
-</a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GyuHyeok0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=06A66C" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyuHyeok0&layout=compact&theme=buefy&hide_border=true&title_color=06A66C" /></a> |
 
 | ------------- | ------------- |
 
