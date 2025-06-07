@@ -9,15 +9,14 @@
 
 **Top Repositories**
  <img align="left" src="https://github.com/gyuhyeok0/gyuhyeok0/assets/153148788/9b1ff151-9d35-4161-a336-b8e45f611964" alt="나무" style="width: 280px; height: auto; ">
-
-<a href="https://github.com/gyuhyeok0/OnulFrontEnd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gyuhyeok0&repo=OnulFrontEnd&theme=tokyonight" />
-</a>
-
+ 
 <a href="https://github.com/gyuhyeok0/OnulBackEnd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gyuhyeok0&repo=OnulBackEnd&theme=tokyonight" />
 </a>
 
+  <a href="https://github.com/gyuhyeok0/OnulPython">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gyuhyeok0&repo=OnulPython&theme=tokyonight" />
+  </a>
 <br>
 
 ### 🌱 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 & 𝙼𝚢 𝚜𝚝𝚊𝚝𝚜
@@ -54,6 +53,7 @@
 ![](https://img.shields.io/badge/React_Native-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+
 
 <img src="https://github.com/gyuhyeok0/gyuhyeok0/assets/153148788/47bd932e-4a9e-4a2f-8e4a-480479d675bd" alt="나무" style="width: 280px; height: auto; ">
 
